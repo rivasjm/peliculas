@@ -1,0 +1,25 @@
+[
+    {
+        "title": "El misterio del lago",
+        "year": 2024,
+        "director": "Ana López",
+        "genre": [
+            "Misterio",
+            "Drama"
+        ],
+        "duration": 125,
+        "rating": 10,
+        "cast": [
+            {
+                "name": "Carlos Méndez",
+                "role": "Inspector Ramírez"
+            },
+            {
+                "name": "Lucía Torres",
+                "role": "Sofía"
+            }
+        ],
+        "language": "Español",
+        "country": "España"
+    }
+]
